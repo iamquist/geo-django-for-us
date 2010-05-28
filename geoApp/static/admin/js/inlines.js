@@ -1,3 +1,4 @@
+// Small change 670
 /*global DateTimeShortcuts, SelectFilter*/
 /**
  * Django admin inlines
