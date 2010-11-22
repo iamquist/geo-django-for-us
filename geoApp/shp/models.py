@@ -92,3 +92,5 @@ def publish_data(sender, instance, created, **kwargs):
 def delete_data(sender, instance, **kwargs):
     db.delete_table(instance.name, schema='data')
     geo.delete_layer(instance.name, 'geoapp')
+
+Modified at 2025-07-14 16:00:36.056997
