@@ -1,3 +1,4 @@
+// Small change 759
 'use strict';
 {
     const $ = django.jQuery;
