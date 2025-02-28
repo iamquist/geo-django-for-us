@@ -1,7 +1,7 @@
 # GEO-DJANGO-APP FOR US
 ### Getting start with this project
 
-##### Download the project
+##### Download/Clone the project 
 
 ```bash
 git clone https://github.com/iMkQuist/geo-django-for-us.git
