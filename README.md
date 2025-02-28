@@ -8,7 +8,7 @@ git clone https://github.com/iMkQuist/geo-django-for-us.git
 cd geo-django-for-us
 ```
 
-Make sure to change the database connection parameters from `geoProject/settings.py` file,
+Make sure to change the database connection parameters from `geoApp/settings.py` file,
 
 ```python
 DATABASES = {
